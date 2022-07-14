@@ -9,7 +9,7 @@
         <li><code>git push [name]</code> send files to your GitHub repository</li>
         <h2>Backup commands</h2>
         <li><code>git reflog</code> show log's of repository</li>
-        <li><code>git reset --hard [version id you want back] </code> back to the previous version of code
+        <li><code>git reset --hard [version id you want back]</code> back to the previous version of code
 </ul> 
 
 
